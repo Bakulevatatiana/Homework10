@@ -4,7 +4,6 @@ public class Main {
         task2();
         task3();
 
-
     }
 
     private static void task3() {String firstName= "Иванов";
